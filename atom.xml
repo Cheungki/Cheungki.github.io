@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-08-12T10:15:30.346Z</updated>
+  <updated>2021-08-12T16:35:27.976Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ACL 2021 主会long papers接收情况</title>
+    <link href="http://example.com/2021/08/13/ACL-2021-%E4%B8%BB%E4%BC%9Along-papers%E6%8E%A5%E6%94%B6%E6%83%85%E5%86%B5/"/>
+    <id>http://example.com/2021/08/13/ACL-2021-%E4%B8%BB%E4%BC%9Along-papers%E6%8E%A5%E6%94%B6%E6%83%85%E5%86%B5/</id>
+    <published>2021-08-12T16:35:04.000Z</published>
+    <updated>2021-08-12T16:35:27.976Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="ACL-2021-论文接收情况-主会"><a href="#ACL-2021-论文接收情况-主会" class="headerlink" title="ACL 2021 论文接收情况(主会)"></a>ACL 2021 论文接收情况(主会)</h1><ul><li><strong>对抗攻击和鲁棒性15篇</strong></li><li><strong>道德与自然语言处理19篇</strong></li><li><strong>对话系统37篇</strong></li><li><strong>会话、语用与论证挖掘7篇</strong></li><li><strong>文本生成52篇</strong></li><li><strong>信息抽取67篇</strong></li><li><strong>信息检索与文本挖掘13篇</strong></li><li><strong>自然语言处理模型的可解释性与分析9篇</strong></li><li><strong>语言模型36篇</strong></li><li><strong>词法8篇</strong></li><li><strong>语言理论、认知建模和心理语言学9篇</strong></li><li><strong>自然语言处理机器学习49篇</strong></li><li><strong>机器翻译与多语言64篇</strong></li><li><strong>自然语言处理应用33篇</strong></li><li><strong>音韵学、形态学和分词8篇</strong></li><li><strong>问答32篇</strong></li><li><strong>数据集、资源和评估46篇</strong></li><li><strong>句子级语义和文本推理38篇</strong></li><li><strong>情感分析、文体分析19篇</strong></li><li><strong>语音与多模态24篇</strong></li><li><strong>文本摘要16篇</strong></li><li><strong>语法、标记和解析20篇</strong></li><li><strong>文本分类13篇</strong></li><li><strong>其他3篇</strong></li></ul><p>参考<a href="https://zhuanlan.zhihu.com/p/387805244">本文</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;ACL-2021-论文接收情况-主会&quot;&gt;&lt;a href=&quot;#ACL-2021-论文接收情况-主会&quot; class=&quot;headerlink&quot; title=&quot;ACL 2021 论文接收情况(主会)&quot;&gt;&lt;/a&gt;ACL 2021 论文接收情况(主会)&lt;/h1&gt;&lt;ul&gt;
+&lt;l</summary>
+      
+    
+    
+    
+    
+    <category term="NLP" scheme="http://example.com/tags/NLP/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
