@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-08-12T16:35:27.976Z</updated>
+  <updated>2021-08-12T17:02:04.815Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,41 +21,17 @@
     <link href="http://example.com/2021/08/13/ACL-2021-%E4%B8%BB%E4%BC%9Along-papers%E6%8E%A5%E6%94%B6%E6%83%85%E5%86%B5/"/>
     <id>http://example.com/2021/08/13/ACL-2021-%E4%B8%BB%E4%BC%9Along-papers%E6%8E%A5%E6%94%B6%E6%83%85%E5%86%B5/</id>
     <published>2021-08-12T16:35:04.000Z</published>
-    <updated>2021-08-12T16:35:27.976Z</updated>
+    <updated>2021-08-12T17:02:04.815Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="ACL-2021-论文接收情况-主会"><a href="#ACL-2021-论文接收情况-主会" class="headerlink" title="ACL 2021 论文接收情况(主会)"></a>ACL 2021 论文接收情况(主会)</h1><ul><li><strong>对抗攻击和鲁棒性15篇</strong></li><li><strong>道德与自然语言处理19篇</strong></li><li><strong>对话系统37篇</strong></li><li><strong>会话、语用与论证挖掘7篇</strong></li><li><strong>文本生成52篇</strong></li><li><strong>信息抽取67篇</strong></li><li><strong>信息检索与文本挖掘13篇</strong></li><li><strong>自然语言处理模型的可解释性与分析9篇</strong></li><li><strong>语言模型36篇</strong></li><li><strong>词法8篇</strong></li><li><strong>语言理论、认知建模和心理语言学9篇</strong></li><li><strong>自然语言处理机器学习49篇</strong></li><li><strong>机器翻译与多语言64篇</strong></li><li><strong>自然语言处理应用33篇</strong></li><li><strong>音韵学、形态学和分词8篇</strong></li><li><strong>问答32篇</strong></li><li><strong>数据集、资源和评估46篇</strong></li><li><strong>句子级语义和文本推理38篇</strong></li><li><strong>情感分析、文体分析19篇</strong></li><li><strong>语音与多模态24篇</strong></li><li><strong>文本摘要16篇</strong></li><li><strong>语法、标记和解析20篇</strong></li><li><strong>文本分类13篇</strong></li><li><strong>其他3篇</strong></li></ul><p>参考<a href="https://zhuanlan.zhihu.com/p/387805244">本文</a></p>]]></content>
+    <content type="html"><![CDATA[<p>对ACL 2021的收录的long paper进行了分类总结。</p><span id="more"></span><ul><li><strong>对抗攻击和鲁棒性15篇</strong></li><li><strong>道德与自然语言处理19篇</strong></li><li><strong>对话系统37篇</strong></li><li><strong>会话、语用与论证挖掘7篇</strong></li><li><strong>文本生成52篇</strong></li><li><strong>信息抽取67篇</strong></li><li><strong>信息检索与文本挖掘13篇</strong></li><li><strong>自然语言处理模型的可解释性与分析9篇</strong></li><li><strong>语言模型36篇</strong></li><li><strong>词法8篇</strong></li><li><strong>语言理论、认知建模和心理语言学9篇</strong></li><li><strong>自然语言处理机器学习49篇</strong></li><li><strong>机器翻译与多语言64篇</strong></li><li><strong>自然语言处理应用33篇</strong></li><li><strong>音韵学、形态学和分词8篇</strong></li><li><strong>问答32篇</strong></li><li><strong>数据集、资源和评估46篇</strong></li><li><strong>句子级语义和文本推理38篇</strong></li><li><strong>情感分析、文体分析19篇</strong></li><li><strong>语音与多模态24篇</strong></li><li><strong>文本摘要16篇</strong></li><li><strong>语法、标记和解析20篇</strong></li><li><strong>文本分类13篇</strong></li><li><strong>其他3篇</strong></li></ul><p>参考<a href="https://zhuanlan.zhihu.com/p/387805244">本文</a></p>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;h1 id=&quot;ACL-2021-论文接收情况-主会&quot;&gt;&lt;a href=&quot;#ACL-2021-论文接收情况-主会&quot; class=&quot;headerlink&quot; title=&quot;ACL 2021 论文接收情况(主会)&quot;&gt;&lt;/a&gt;ACL 2021 论文接收情况(主会)&lt;/h1&gt;&lt;ul&gt;
-&lt;l</summary>
-      
+    <summary type="html">&lt;p&gt;对ACL 2021的收录的long paper进行了分类总结。&lt;/p&gt;</summary>
     
     
     
     
     <category term="NLP" scheme="http://example.com/tags/NLP/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2021/08/12/hello-world/"/>
-    <id>http://example.com/2021/08/12/hello-world/</id>
-    <published>2021-08-12T10:15:30.346Z</published>
-    <updated>2021-08-12T10:15:30.346Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
-    
-    
-    
     
   </entry>
   
