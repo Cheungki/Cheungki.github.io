@@ -25,11 +25,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Qi Zhang"
-  pronouns         : # example: "he/him"  
+  pronouns         : "he/him"  
   bio              : ""
   location         : "Hangzhou, China"
   employer         : "Zhejiang University"
-  uri              : # URL
+  uri              : "https://cheungki.github.io" # URL
   email            : "cheung_se@zju.edu.cn" 
 
   # Academic websites
@@ -83,13 +83,13 @@ author:
   # zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
-publication_category:
+publication_category: 
+  conferences:
+    title: 'Conference Papers'
   # books:
   #   title: 'Books'
   # manuscripts:
-  #   title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  #   title: 'Journal Articles'   
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
